@@ -1,0 +1,5 @@
+zero shot
+few shot
+CLIP doesnt do well with images from specialized domains
+
+For search its not good to use weight decay as it will loose the learning from the pretrained model of CLIP
